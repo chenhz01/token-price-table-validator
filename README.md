@@ -7,6 +7,8 @@ input/output counterpart, currency and unit discipline). Schema validation
 only — this repo ships **no real vendor price data**. Pure standard
 library. *No direct equivalent found as of 2026-10-13.*
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Teams tracking LLM costs keep price tables in spreadsheets and wikis, where
